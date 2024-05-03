@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portafolio/static/css/main.32f4bb10.css",
-    "main.js": "/Portafolio/static/js/main.5d7a2d07.js",
+    "main.js": "/Portafolio/static/js/main.00416971.js",
     "static/js/453.d8166049.chunk.js": "/Portafolio/static/js/453.d8166049.chunk.js",
     "static/media/png": "/Portafolio/static/media/a855df51ab9b3b503221419fd614970f.de857eb23fda810313db.png",
     "static/media/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products.jpg": "/Portafolio/static/media/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products.e9e6d095b7eca476ed7d.jpg",
@@ -23,11 +23,11 @@
     "static/media/linkedin-svgrepo-com.svg": "/Portafolio/static/media/linkedin-svgrepo-com.380e05e2b51a874625268e27e043bfbf.svg",
     "index.html": "/Portafolio/index.html",
     "main.32f4bb10.css.map": "/Portafolio/static/css/main.32f4bb10.css.map",
-    "main.5d7a2d07.js.map": "/Portafolio/static/js/main.5d7a2d07.js.map",
+    "main.00416971.js.map": "/Portafolio/static/js/main.00416971.js.map",
     "453.d8166049.chunk.js.map": "/Portafolio/static/js/453.d8166049.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32f4bb10.css",
-    "static/js/main.5d7a2d07.js"
+    "static/js/main.00416971.js"
   ]
 }
