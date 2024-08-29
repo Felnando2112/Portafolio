@@ -2,7 +2,7 @@ import { Container, Row, Col, Tab} from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/YardSale.png";
 import projImg2 from "../assets/VideoQuiz.png";
-import projImg3 from "../assets/Captura desde 2024-05-02 18-23-51.png";
+import projImg3 from "../assets/Captura desde 2024-08-29 14-29-08.png";
 import colorSharp2 from "../assets/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products.jpg";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -23,10 +23,10 @@ export const Projects = () => {
       link: 'https://videocuestionariofernandoavendano.netlify.app/'
     },
     {
-      title: "Vitality Center",
-      description: "Mobile app for physical aptitude",
+      title: "Whereitis?",
+      description: "Web application using google maps api",
       imgUrl: projImg3,
-      link: 'https://expo.dev//accounts/fernando2112/projects/client/builds/f88b8915-9391-4c2c-9bfc-c154830a8769'
+      link: 'https://whereitis.vercel.app'
     }
   ];
 
