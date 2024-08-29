@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/Portafolio/static/css/main.32f4bb10.css",
-    "main.js": "/Portafolio/static/js/main.00416971.js",
+    "main.js": "/Portafolio/static/js/main.92e14249.js",
     "static/js/453.d8166049.chunk.js": "/Portafolio/static/js/453.d8166049.chunk.js",
     "static/media/png": "/Portafolio/static/media/a855df51ab9b3b503221419fd614970f.de857eb23fda810313db.png",
     "static/media/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products.jpg": "/Portafolio/static/media/abstract-luxury-blur-dark-grey-black-gradient-used-as-background-studio-wall-display-your-products.e9e6d095b7eca476ed7d.jpg",
+    "static/media/Captura desde 2024-08-29 14-29-08.png": "/Portafolio/static/media/Captura desde 2024-08-29 14-29-08.41eb7f0816c9e77a0e36.png",
     "static/media/YardSale.png": "/Portafolio/static/media/YardSale.473df37a3a32923cf4ce.png",
-    "static/media/Captura desde 2024-05-02 18-23-51.png": "/Portafolio/static/media/Captura desde 2024-05-02 18-23-51.9eed1c1c2010b6a5abc9.png",
     "static/media/VideoQuiz.png": "/Portafolio/static/media/VideoQuiz.aa57f592ed3e3207e230.png",
     "static/media/33029453_7994433.svg": "/Portafolio/static/media/33029453_7994433.0136b8d0e8fb16b9493cb664be632c44.svg",
     "static/media/revicons.eot": "/Portafolio/static/media/revicons.a77de540a38981833f9e.eot",
@@ -23,11 +23,11 @@
     "static/media/linkedin-svgrepo-com.svg": "/Portafolio/static/media/linkedin-svgrepo-com.380e05e2b51a874625268e27e043bfbf.svg",
     "index.html": "/Portafolio/index.html",
     "main.32f4bb10.css.map": "/Portafolio/static/css/main.32f4bb10.css.map",
-    "main.00416971.js.map": "/Portafolio/static/js/main.00416971.js.map",
+    "main.92e14249.js.map": "/Portafolio/static/js/main.92e14249.js.map",
     "453.d8166049.chunk.js.map": "/Portafolio/static/js/453.d8166049.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32f4bb10.css",
-    "static/js/main.00416971.js"
+    "static/js/main.92e14249.js"
   ]
 }
