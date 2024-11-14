@@ -3,7 +3,7 @@
 Personal Portfolio here you'll find all my proyects and personal contact info.
 ## Technologies
 - React.js
-- Boostrap
+- Bootstrap
 - Express.js
 - nodemailer
 - gh-pages
