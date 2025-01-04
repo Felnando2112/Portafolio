@@ -14,7 +14,7 @@ export const Projects = () => {
       title: "YardSale",
       description: "E-commerce",
       imgUrl: projImg1,
-      link: 'https://yardsalefernando.netlify.app/'
+      link: 'https://yardsale2.netlify.app/'
     },
     {
       title: "Video Quiz",
